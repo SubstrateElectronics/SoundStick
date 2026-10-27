@@ -1,6 +1,9 @@
 # SoundStick
 An eraser sized music player/walkie-talkie supporting Bluetooth and SD card playback.
 
+> [!WARNING]
+> Use at your own risk. Hasn't been tested yet.
+
 ## Components
 - nRF52840 QFN48 Variant
 - MCP73831 Li-ion Charger
