@@ -1,0 +1,9 @@
+*.kicad_sch-bak
+*.kicad_pcb-bak
+*.pro-bak
+*-backups/
+autostart.kicad_pcb
+*.kicad_prl
+*.kicad_lock
+fp-cache
+sym-lib-table.cache
